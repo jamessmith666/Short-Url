@@ -1,10 +1,10 @@
-# Yocs
+# URL Shortener
 Web Script URL Shortener Without Database MYSQL
 
 <img src="https://raw.githubusercontent.com/neoxr/Yocs/master/ss.png" width="100%">
 
 ## Configuration
-First you have to change the config file, you can find it in <a href="https://github.com/neoxr/Yocs/blob/master/vendor/helper/config.php">here</a>.
+First you have to change the config file, you can find it in <a href="https://github.com/jamessmith666/Short-Url/blob/master/vendor/helper/config.php">here</a>.
 
 ```
 // put your web address
@@ -18,11 +18,11 @@ define ('setup', 'setup', true);
 ```
 
 ## Setup
-Next change the <a href="https://github.com/neoxr/Yocs/blob/master/vendor/database/setup.json">setup.json</a> file.
+Next change the <a href="https://github.com/jamessmith666/Short-Url/blob/master/vendor/database/setup.json">setup.json</a> file.
 
 ```
 {
-	"name" : "Yocs URL Shortener",
+	"name" : "Hck URL Shortener",
 	"desc" : "Cut your long URL in here!",
 	"keyword" : "url shortener, url cutter, bit.ly, goo.gl, s.id",
 	"ogimg" : "/vendor/static/images/logo.jpg"
@@ -53,5 +53,5 @@ http://site.com/WieUo/s
 
 ## Demo
 
-Here : <a href="http://crop.us.to">http://crop.us.to</a>
+Here : <a href="http://crop.us.to">https://hck.my.id</a>
 
